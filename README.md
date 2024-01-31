@@ -1,7 +1,7 @@
 # Project1_C
 <h2>This file Created By Ziad Mohammed Fathi.</h2> 
- This is my first project in C.
- Project : Data base of students in school.
+ <h3>This is my first project in C.</h3>
+ <h3>Project : Data base of students in school.</h3>
 
  
  <p>1.SDB.h to have the function declaration that’s you
