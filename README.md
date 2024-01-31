@@ -1,3 +1,3 @@
 # Project1_C
-<h1>First Project in C.</h1> 
-This file Created By Ziad Mohammed Fathi ; this is my first project in c..
+<h1>This file Created By Ziad Mohammed Fathi.</h1> 
+ This is my first project in C .
