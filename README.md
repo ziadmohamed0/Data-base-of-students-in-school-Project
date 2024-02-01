@@ -1,4 +1,4 @@
-# Project1_C
+# Data base of students in school in C
 <h2>This file Created By Ziad Mohammed Fathi.</h2> 
  <h3>This is my first project in C.</h3>
  <h3>Project : Data base of students in school.</h3>
