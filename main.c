@@ -1,8 +1,47 @@
+/*
+=============================================================================
+=============================================================================
+*       @   File_Name           :   main.c
+*       @   Engineer_Name       :   Ziad_Mohammed_Fathi_Mohammed
+*       @   Data                :   1/2/2024
+*       @   Breif               :   it has a super loop it will make your
+                                    project until the user chose to exit 
+                                    you will ask the user to choose between 
+                                    these options.
+=============================================================================
+=============================================================================
+*/
+
+
+
+/* ==================== Includes Section Start =================== */
 #include "SDB.h"
 #include <stdio.h>
-#define MAX_STUDENTS 10
+/* ==================== Includes Section End  ==================== */
 
+
+/* ==================== Macroes Section Start ==================== */
+#define MAX_STUDENTS 10
+/* ==================== Macroes Section End  ===================== */
+
+
+/* ============== Functions Declaration Section Start ============ */
 void SDB_action(uint8 choice);
+void SDB_APP();
+/* ============== Functions Declaration Section End ============== */
+
+
+/* ================== Main Funcion Section Start ================= */
+int main()
+{
+    SDB_APP();
+    return 0;
+}
+
+/* ================== Main Funcion Section End =================== */
+
+
+/* ================ Functions Defintion Section Start ============= */
 
 void SDB_APP()
 {
@@ -126,8 +165,20 @@ void SDB_action(uint8 choice)
     }
 }
 
-int main()
-{
-    SDB_APP();
-    return 0;
-}
+/* ================ Functions Defintion Section End =============== */
+
+
+
+/*
+=====================================================================================
+=====================================================================================
+*   $   Revision   $
+
+    Data                By                  Ticket No.
+    --------------      --------------      --------------
+    1Feb2024            Ziad_Mohammed       FirstProject_1
+    --------------      --------------      --------------
+
+=====================================================================================
+=====================================================================================
+*/
